@@ -15,8 +15,7 @@
     <relativePath />
 	</parent>
  
-
-
+	
   <dependencies>
   
 	<dependency>
@@ -30,8 +29,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	  
   </dependencies>
+	
+	
   <build>
     <finalName>ModelAttributeDemo</finalName>
   </build>
+	
 </project>
