@@ -7,6 +7,7 @@
 <h2>Home Page</h2>
 
 	<form action="add" method="get">
+		
 	Enter 1st number : <input type="text" name="number1"><br>
 	Enter 2nd number : <input type="text" name="number2"><br>
 	<input type="submit">
